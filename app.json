@@ -1,0 +1,35 @@
+{
+  "expo": {
+    "name": "備蓄品管理",
+    "slug": "stock-management-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash-icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#eaf3ff"
+    },
+    "userInterfaceStyle": "light",
+    "backgroundColor": "#eaf3ff",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#E6F4FE",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
+        "monochromeImage": "./assets/android-icon-monochrome.png"
+      }
+    },
+    "web": {
+      "name": "備蓄品管理",
+      "shortName": "備蓄品",
+      "favicon": "./assets/favicon.png",
+      "themeColor": "#1d74f5",
+      "backgroundColor": "#eaf3ff",
+      "display": "standalone"
+    }
+  }
+}
